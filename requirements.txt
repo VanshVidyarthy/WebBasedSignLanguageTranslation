@@ -1,0 +1,6 @@
+streamlit==1.25.0  # Ensure compatibility with your project
+mediapipe==0.10.0  # For hand gesture detection
+opencv-python==4.8.0.76  # For image processing
+numpy==1.26.0  # For numerical operations
+Pillow==9.5.0  # For image manipulation
+speechrecognition==3.8.1  # For optional speech-to-text feature
