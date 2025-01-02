@@ -27,7 +27,7 @@ Libraries listed in requirements.txt
 
 Installation Steps
 1.Clone the repository:
-git clone https://github.com/yourusername/sign-language-detection.git
+git clone https://github.com/VanshVidyarthy/WebBasedSignLanguageTranslation
 cd sign-language-detection
 2.Install the required libraries:
 pip install -r requirements.txt
